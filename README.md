@@ -44,12 +44,6 @@ In these sessions, I walk through algorithmic problems step-by-step and explain 
 
 ---
 
-### 📈 GitHub Stats
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanMirtil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMirtil&layout=compact&theme=radical)
-
----
-
 ### 💬 Connect With Me
 📫 [LinkedIn](https://www.linkedin.com/)  
 🌐 [Portfolio Coming Soon]
