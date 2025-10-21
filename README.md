@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Bryan%20Mirtil%20💻&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=200&section=header&text=Bryan%20Mirtil%20🌐&fontSize=45&fontColor=ffffff)
 
 # 👋 Hi, I'm Bryan Mirtil
 
