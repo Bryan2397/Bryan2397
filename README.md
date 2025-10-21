@@ -11,7 +11,8 @@
 
 ### 🔭 What I’m Currently Working On
 - Building **web and software projects**, including **personal** and **academic** projects.
-- Developing a **real-time chat application** using the **MERN stack** and **Socket.IO**.
+- Developing a **fullstack airline application** using **MERN stack** and **Zustand**
+- Developing a **real-time chat application** using the **MERN stack**, **Zustand**, and **Socket.IO**.
 - Strengthening my understanding of **state management** in React.
 
 ---
@@ -38,12 +39,12 @@ In these sessions, I walk through algorithmic problems step-by-step and explain 
 ### 🧰 Tech Stack
 **Frontend:** React, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express  
-**Database:** MongoDB  
+**Database:** MongoDB, SQL  
 **Languages:** Java, Python, C  
-**Tools:** Git, Linux, VS Code  
+**Tools:** Git, Linux, VSCode  
 
 ---
 
 ### 💬 Connect With Me
-📫 [LinkedIn](https://www.linkedin.com/)  
+📫 [LinkedIn](https://www.linkedin.com/in/bryan-mirtil-193390330/)  
 🌐 [Portfolio Coming Soon]
