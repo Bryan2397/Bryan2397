@@ -12,15 +12,13 @@
 ### 🔭 What I’m Currently Working On
 - Building **web and software projects**, including **personal** and **academic** projects.
 - Developing a **fullstack airline application** using **MERN stack** and **Zustand**
-- Developing a **real-time chat application** using the **MERN stack**, **Zustand**, and **Socket.IO**.
 - Strengthening my understanding of **state management** in React.
 
 ---
 
 ### 🌱 What I’m Learning
 - **Advanced JavaScript**, backend development, and system programming concepts.  
-- Modern frameworks and **full-stack architecture**.  
-- Techniques for **optimizing algorithms** and improving performance.  
+- Modern frameworks and **Cloud computing**.  
 
 ---
 
