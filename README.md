@@ -11,6 +11,7 @@
 
 ### 🔭 What I’m Currently Working On
 - Building **web and software projects**, including **personal** and **academic** projects.
+- Developing a **frontend React** inspired from Google **Google Keep**
 - Developing a **fullstack airline application** using **MERN stack** and **Zustand**
 - Strengthening my understanding of **state management** in React.
 
@@ -39,7 +40,7 @@ In these sessions, I walk through algorithmic problems step-by-step and explain 
 **Backend:** Node.js, Express  
 **Database:** MongoDB, SQL  
 **Languages:** Java, Python, C  
-**Tools:** Git, Linux, VSCode  
+**Tools:** Git, Linux, UNIX, VSCode, Intellij  
 
 ---
 
