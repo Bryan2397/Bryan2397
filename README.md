@@ -12,8 +12,9 @@
 ### 🔭 What I’m Currently Working On
 - Building **web and software projects**, including **personal** and **academic** projects.
 - Developing a **frontend React** inspired from Google **Google Keep**
-- Developing a **fullstack airline application** using **MERN stack** and **Zustand**
-- Strengthening my understanding of **state management** in React.
+- Developing a **fullstack airline application** using **MERN stack**
+- Strengthening my understanding of **Hooks** in React.
+- Strengthening my understanding of **REST api** and **CSS**
 
 ---
 
