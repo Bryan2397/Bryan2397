@@ -10,15 +10,14 @@
 ---
 
 ### 🔭 What I’m Currently Working On
-- Building **web and software projects**, including **personal** and **academic** projects.
-- Developing a **fullstack airline application** using **MERN stack**
-- Strengthening my understanding of **REST API** and **Databases** and **Jest** testing soon
+- Learning **Spring Boot** and **PostgreSQL** for my spring internship with the New York State Senate
+- Strengthening my understanding of Backend concepts while learning Spring Boot and PostgreSQL
 
 ---
 
 ### 🌱 What I’m Learning
-- **Advanced JavaScript**, backend development, and system programming concepts.  
-- Modern frameworks and **Cloud computing**.  
+- Backend development as well as stregthening my React skills
+- If time allows, I would love to learn about **CI/CD** pipelines, **Docker**, and **AWS**.
 
 ---
 
@@ -37,7 +36,7 @@ In these sessions, I walk through algorithmic problems step-by-step and explain 
 ### 🧰 Tech Stack
 **Frontend:** React, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express  
-**Database:** MongoDB, SQL  
+**Database:** MongoDB, postgreSQL  
 **Languages:** Java, Python, C  
 **Tools:** Git, Linux, UNIX, VSCode, Intellij  
 
