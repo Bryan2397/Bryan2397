@@ -10,13 +10,12 @@
 ---
 
 ### 🔭 What I’m Currently Working On
-- Learning **Spring Boot** and **PostgreSQL** for my spring internship with the New York State Senate
-- Strengthening my understanding of Backend concepts while learning Spring Boot and PostgreSQL
-
+- Currently Interning with the New York State Senate as a Software Engineer
+- Building a personal project that will help make applying to job a little bit easier to handle for people in the job market.
 ---
 
 ### 🌱 What I’m Learning
-- Backend development as well as stregthening my React skills
+- Backend development through Spring Boot as well as stregthening my React skills with Typescript
 - If time allows, I would love to learn about **CI/CD** pipelines, **Docker**, and **AWS**.
 
 ---
@@ -34,9 +33,9 @@ In these sessions, I walk through algorithmic problems step-by-step and explain 
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** React, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, postgreSQL  
+**Frontend:** React, HTML, CSS, JavaScript, TypeScript  
+**Backend:** Node.js, Express, Spring Boot  
+**Database:** MongoDB, PostgreSQL, MySQL  
 **Languages:** Java, Python, C  
 **Tools:** Git, Linux, UNIX, VSCode, Intellij  
 
