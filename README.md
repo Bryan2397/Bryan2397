@@ -10,13 +10,12 @@
 ---
 
 ### 🔭 What I’m Currently Working On
-- Currently Interning with the New York State Senate as a Software Engineer
-- Building a personal project that will help make applying to job a little bit easier to handle for people in the job market.
+- Currently Interning with Hyland as a Software Engineer
+- Creating a marketplace for the students at my university to buy and sell whatever items they want.
 ---
 
 ### 🌱 What I’m Learning
-- Backend development through Spring Boot as well as stregthening my React skills with Typescript
-- If time allows, I would love to learn about **CI/CD** pipelines, **Docker**, and **AWS**.
+- Currently learning about **CI/CD** pipelines, **Docker**, and **AWS**.
 
 ---
 
@@ -33,11 +32,23 @@ In these sessions, I walk through algorithmic problems step-by-step and explain 
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** React, HTML, CSS, JavaScript, TypeScript  
-**Backend:** Node.js, Express, Spring Boot  
-**Database:** MongoDB, PostgreSQL, MySQL  
-**Languages:** Java, Python, C  
-**Tools:** Git, Linux, UNIX, VSCode, Intellij  
+Frontend:
+React, Angular, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
+
+Backend:
+Node.js, Express.js, Spring Boot, C#/.NET, REST APIs, JWT Authentication
+
+Database:
+PostgreSQL, MySQL, MongoDB, SQL, Hibernate/JPA
+
+Languages:
+Java, Python, C, JavaScript, TypeScript, C#
+
+Cloud & DevOps:
+Docker, AWS (S3, EC2, RDS), CI/CD, GitHub Actions, Linux/UNIX
+
+Tools & Development:
+Git, GitHub, VS Code, IntelliJ IDEA, Postman, Jira, Maven, npm
 
 ---
 
